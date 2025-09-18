@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vsproject\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|e:\\vsproject\\c#\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|solutionrelative:bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|e:\\vsproject\\c#\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|solutionrelative:bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|e:\\vsproject\\c#\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|solutionrelative:bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|e:\\vsproject\\c#\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|solutionrelative:bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|e:\\vsproject\\c#\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|solutionrelative:bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|e:\\vsproject\\c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B93B946-BA22-4ECE-80BE-2463323819DD}|C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai5.cs",
+              "DocumentMoniker": "E:\\vsproject\\C#\\bai5.cs",
+              "RelativeDocumentMoniker": "bai5.cs",
+              "ToolTip": "E:\\vsproject\\C#\\bai5.cs",
+              "RelativeToolTip": "bai5.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:42:32.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai4.cs",
+              "DocumentMoniker": "E:\\vsproject\\C#\\bai4.cs",
+              "RelativeDocumentMoniker": "bai4.cs",
+              "ToolTip": "E:\\vsproject\\C#\\bai4.cs",
+              "RelativeToolTip": "bai4.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:46:33.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai3.cs",
+              "DocumentMoniker": "E:\\vsproject\\C#\\bai3.cs",
+              "RelativeDocumentMoniker": "bai3.cs",
+              "ToolTip": "E:\\vsproject\\C#\\bai3.cs",
+              "RelativeToolTip": "bai3.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:19:51.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bai2.cs",
+              "DocumentMoniker": "E:\\vsproject\\C#\\bai2.cs",
+              "RelativeDocumentMoniker": "bai2.cs",
+              "ToolTip": "E:\\vsproject\\C#\\bai2.cs",
+              "RelativeToolTip": "bai2.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:48:04.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bai1.cs",
+              "DocumentMoniker": "E:\\vsproject\\C#\\bai1.cs",
+              "RelativeDocumentMoniker": "bai1.cs",
+              "ToolTip": "E:\\vsproject\\C#\\bai1.cs",
+              "RelativeToolTip": "bai1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:24:56.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vsproject\\C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\vsproject\\C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:13:53.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

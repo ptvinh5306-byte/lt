@@ -1,0 +1,4 @@
+E:\vsproject\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsproject\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+E:\vsproject\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+E:\vsproject\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
