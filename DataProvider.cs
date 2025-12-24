@@ -11,6 +11,18 @@ namespace DAL_QLNS
     public class DataProvider
     {
         private string connectString = @"Data Source=THANHVINH\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True;TrustServerCertificate=True;";
+
+        private static DataProvider instance;
+        public static DataProvider Instance
+        {
+            get
+            {
+                if (instance == null) instance = new DataProvider();
+                return instance;
+            }
+            private set { instance = value; }
+        }
+
         public DataTable execQuery(string query)
         {
             DataTable data = new DataTable();
